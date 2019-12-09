@@ -97,7 +97,6 @@
 @media only screen and (max-width: 600px) {
   .footer_social {
     color: #fff;
-    width: 95%;
     position: fixed;
     bottom: 5px;
     background: rgb(87, 82, 217);
@@ -108,7 +107,6 @@
     );
     padding: 15px;
     border-radius: 35px;
-    width: 95%;
   }
   .footer_area {
     margin-top: 25px;
