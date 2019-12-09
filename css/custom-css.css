@@ -4,6 +4,9 @@
 /* Tablet Layout: 768px */
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
+.section_gap_top {
+  padding-top: 100px;
+}
 
 .footer_area::before {
   background: url("../img/body-bg.png");
