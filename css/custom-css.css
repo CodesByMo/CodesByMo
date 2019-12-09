@@ -4,6 +4,9 @@
 /* Tablet Layout: 768px */
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
+.fa::before {
+  color: #fff;
+}
 
 @media (max-width: 320px) {
   body {
@@ -19,7 +22,7 @@
   #footerLinks {
     padding: 0 5px !important;
   }
-};
+}
 /* ===================================== */
 
 @media (max-width: 768px) {
@@ -32,8 +35,7 @@
     /* width: 91%; */
     padding: 15px;
   }
-};
-
+}
 
 @media (max-width: 1024px) {
   body {
@@ -46,7 +48,7 @@
     padding: 15px;
     border-radius: 25px;
   }
-};
+}
 
 @media (max-width: 1440px) {
   .footer_social {
@@ -56,4 +58,4 @@
     padding: 15px;
     border-radius: 25px;
   }
-};
+}
